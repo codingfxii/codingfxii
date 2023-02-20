@@ -19,7 +19,8 @@
 
 
 
-https://user-images.githubusercontent.com/94627848/220175325-690e7d2f-fa7b-4b2b-8958-17cdba585b3c.mp4
+![Untitled video - Made with Clipchamp](https://user-images.githubusercontent.com/94627848/220175514-02c51caa-de7f-4c74-9627-da3227880936.gif)
+
 
 
 
