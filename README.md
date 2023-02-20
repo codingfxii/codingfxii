@@ -15,8 +15,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/94627848/220175038-45070d8b-93b3-45d9-b331-3ef6274d20b1.svg)
 
-<img src="https://github.com/codingfxii/codingfxii/design/github-contribution-grid-snake.gif">
+
 
 
 ---
