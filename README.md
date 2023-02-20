@@ -15,6 +15,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="center">
+<img src="https://github.com/codingfxii/codingfxii/design/github-contribution-grid-snake.svg">
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=codingfxii&icon=6&color=3)](https://visitcount.itsvg.in)
 
