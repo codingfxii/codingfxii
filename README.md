@@ -29,62 +29,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=codingfxii&icon=6&color=3)](https://visitcount.itsvg.in)
 
-{
-  "data": {
-    "kv": {
-      "discord": "100"
-    },
-    "spotify": null,
-    "discord_user": {
-      "id": "567569847240622092",
-      "username": "0x23x",
-      "avatar": "b69bc4455614b4621c378cc9f2aba31b",
-      "discriminator": "0",
-      "bot": false,
-      "global_name": "$wisayd",
-      "display_name": "$wisayd",
-      "public_flags": 4194368,
-      "avatar_decoration_data": null
-    },
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": ".gg/screwy",
-        "created_at": 1695636821000
-      },
-      {
-        "id": "e9d7511e0d32542c",
-        "name": "Visual Studio Code",
-        "type": 0,
-        "state": "Workspace: HTML",
-        "session_id": "1e15cc2123c9030d2824dd09a6012a0e",
-        "details": "Editing dc.js",
-        "timestamps": {
-          "start": 1695653068776
-        },
-        "application_id": "383226320970055681",
-        "assets": {
-          "large_image": "808841241142755358",
-          "large_text": "Editing a JAVASCRIPT file",
-          "small_image": "565945770067623946",
-          "small_text": "Visual Studio Code"
-        },
-        "buttons": [
-          "View Repository"
-        ],
-        "created_at": 1695653734028
-      }
-    ],
-    "discord_status": "dnd",
-    "active_on_discord_web": false,
-    "active_on_discord_desktop": true,
-    "active_on_discord_mobile": false,
-    "listening_to_spotify": false
-  },
-  "success": true
-}
+https://api.lanyard.rest/v1/users/567569847240622092
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
