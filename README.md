@@ -29,7 +29,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=codingfxii&icon=6&color=3)](https://visitcount.itsvg.in)
 
-https://api.lanyard.rest/v1/users/567569847240622092
+[!][](https://api.lanyard.rest/v1/users/567569847240622092)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
